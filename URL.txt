@@ -1,1 +1,1 @@
-https://605b-103-74-22-1.ngrok-free.app/log
+http://localhost:5000/log
